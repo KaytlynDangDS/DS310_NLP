@@ -1,1 +1,3 @@
 IMAGE CAPTIONING IN VIETNAMESE WITH UIT-ViIC DATASET 
+
+Dataset: https://arxiv.org/pdf/2002.00175.pdf
